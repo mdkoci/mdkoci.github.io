@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Website the "easy way"
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Matt Koci
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Slowly learning why Squarespace is not likely to loose my money anytime soon."
+  email: mdkoci@ncsu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: @kocilab
   facebook: #username
   google:
     plus: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: mdkoci
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
